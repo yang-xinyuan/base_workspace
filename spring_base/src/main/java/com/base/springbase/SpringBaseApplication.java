@@ -1,8 +1,7 @@
 package com.base.springbase;
 
 
-import com.base.springbase.jdbc.JDBCConfig;
-import com.base.springbase.jdbc.JdbcDemo;
+
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
