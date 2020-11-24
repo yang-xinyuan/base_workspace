@@ -1,4 +1,4 @@
-package com.auto.autoconfig.common.config.domain;
+package com.base.autoconfig.common.config.domain;
 
 public class DemoDomain {
     private String name;
