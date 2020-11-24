@@ -1,8 +1,8 @@
-package com.base.springbase.lambda;
+package com.base.springlambda.lambda;
 
-import com.base.springbase.lambda.domain.A;
-import com.base.springbase.lambda.domain.B;
-import com.base.springbase.lambda.domain.C;
+import com.base.springlambda.lambda.domain.A;
+import com.base.springlambda.lambda.domain.B;
+import com.base.springlambda.lambda.domain.C;
 import com.base.springbase.lambda.service.DemoService;
 
 import java.util.*;

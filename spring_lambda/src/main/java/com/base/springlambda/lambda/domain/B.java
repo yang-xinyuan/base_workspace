@@ -1,4 +1,4 @@
-package com.base.springbase.lambda.domain;
+package com.base.springlambda.lambda.domain;
 
 public class B  extends C{
 }

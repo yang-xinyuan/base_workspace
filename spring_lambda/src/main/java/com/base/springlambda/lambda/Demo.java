@@ -1,4 +1,4 @@
-package com.base.springbase.lambda;
+package com.base.springlambda.lambda;
 
 import com.base.springbase.lambda.service.DemoService;
 
